@@ -3,7 +3,29 @@
     "@types/node": "^18.6.3",
     "add": "^2.0.6",
     "ts-lib": "^0.0.5",
-    "ts-node": "^10.9.1",
+    "ts-node": "^10.9.1"
+  },
+  "name": "learn_typescript",
+  "description": "learn ts ",
+  "version": "1.0.0",
+  "main": "example.js",
+  "devDependencies": {
+    "@types/jest": "^28.1.6",
+    "jest": "^28.1.3",
+    "ts-jest": "^28.0.7",
     "typescript": "^4.7.4"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nddat1811/learn_typescript_datnd.git"
+  },
+  "author": "datnd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nddat1811/learn_typescript_datnd/issues"
+  },
+  "homepage": "https://github.com/nddat1811/learn_typescript_datnd#readme"
 }
